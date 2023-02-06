@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 16:29:04 IST 2023
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1675076344325
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.maven.plugins\:maven-downloader-plugin\:pom\:1.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [temp (http\://repo1.maven.org/maven2, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1675076344291

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 17:03:35 IST 2023
+onnxruntime_gpu-1.8.1.jar>central=
+onnxruntime_gpu-1.8.1.pom>central=
